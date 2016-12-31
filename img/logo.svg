@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<svg width="250" height="80" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <rect stroke="#000000" id="svg_1" height="48" width="230.999997" y="18" x="9" stroke-width="5" fill="#ffff00"/>
+  <text font-weight="bold" stroke="#000000" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="48" x="125" stroke-width="0" fill="#000000">L.G.R. Fix&amp;Services</text>
+  <polygon stroke-width="0" stroke="#000000" points="236,48.0345458984375 239.87124633789062,59.171669006347656 251.65957641601562,59.411895751953125 242.26382446289062,66.53524017333984 245.67816162109375,77.82083129882812 236,71.086181640625 226.32186889648438,77.82083129882812 229.73617553710938,66.53524017333984 220.34042358398438,59.411895751953125 232.12872314453125,59.171669006347656 236,48.0345458984375 239.87124633789062,59.171669006347656 " strokeWidth="0" strokecolor="#000000" fill="#ff0000" orient="point" r2="6.586181" r="16.465452" point="5" shape="star" id="svg_3" cy="9.5" cx="253"/>
+ </g>
+</svg>
